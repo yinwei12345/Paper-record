@@ -6,5 +6,3 @@
 | EfficientDet | [ EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/pdf/1911.09070)| CVPR  | 2020 | [Python](https://github.com/google/automl/tree/master/efficientdet) | 2024.05.16 |
 | Sparse R-CNN | [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://arxiv.org/abs/2011.12450) | CVPR  | 2021 |      [Python](https://github.com/PeizeSun/SparseR-CNN)       | 2024.05.20 |
 | Querydet | [QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection](https://ieeexplore.ieee.org/document/9879411) | CVPR  | 2022 |      [Python](https://github.com/ChenhongyiYang/QueryDet-PyTorch)       | 2024.05.20 |
-|              |                                                              |       |      |                                                              |            |
-|              |                                                              |       |      |                                                              |            |
